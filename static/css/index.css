@@ -1,0 +1,83 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.top {
+    width: 50%;
+    height: 400px;;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.header-title {
+    flex: 1;
+    font-size: 1.5rem;
+    padding: 20px 0;
+}
+
+.pic-frame {
+    flex: 3;
+    width: 60%;
+    margin: 10px auto;
+}
+
+.dropzone {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px dashed #999;
+}
+
+.bot-header {
+    flex: 1;
+}
+
+.bot {
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+    align-items: center;
+    justify-content: center;
+    background-color: azure;
+    min-height: 550px;
+}
+
+.bot .result {
+    flex: 1;
+    display: flex;
+    height: 400px;
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+}
+
+.bot .offer {
+    flex: 1;
+    width: 90%;
+    padding: 10px;
+}
+
+.bot .offer .name-offer {
+    margin: 10px 0;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.bot .offer .symptom-offer {
+    margin: 15px 0;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+.bot .offer .r-offer {
+    margin: 15px 0;
+    font-size: 1.3rem;
+    font-weight: 500;
+    font-style: italic;
+}
