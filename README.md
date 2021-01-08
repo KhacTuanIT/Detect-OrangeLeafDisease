@@ -7,4 +7,4 @@ Using cmd (Command Prompt) and run:
     `python app.py`
 
 # Demo
-[![Demo Detection KingOrange's Leaf Video](doc/chanhGIF.gif)](https://www.youtube.com/watch?v=SjZ18g1Wnew)
+[![Demo Detection KingOrange's Leaf Video](doc/gifcvs.gif)](https://www.youtube.com/watch?v=SjZ18g1Wnew)
